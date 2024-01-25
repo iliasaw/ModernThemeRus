@@ -7890,7 +7890,7 @@ html:not(.app-focused) .sidebarRegionScroller-3MXcoP {
 	--icon: var(--icon-settings);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=news] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=новости] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=news] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=новости] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=Новости] .iconContainer-1BBaeJ {
 	--icon: var(--icon-news);
 	background-color: var(--icon-color)
 }
