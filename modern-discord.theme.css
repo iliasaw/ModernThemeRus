@@ -7498,11 +7498,11 @@ html:not(.app-focused) .sidebarRegionScroller-3MXcoP {
 	height: 100%;
 	width: 100%
 }
-.container-3w7J-x a[aria-label*=voice] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=voice] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=голосовой] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=общалка] .iconContainer-1BBaeJ {
 	--icon: var(--icon-microphone);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=ama] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=qna] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=ama] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=qna] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=вопросы] .iconContainer-1BBaeJ {
 	--icon: var(--icon-qna);
 	background-color: var(--icon-color)
 }
@@ -7510,15 +7510,15 @@ html:not(.app-focused) .sidebarRegionScroller-3MXcoP {
 	--icon: var(--icon-group);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=announcement] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=announcement] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=новости] .iconContainer-1BBaeJ  {
 	--icon: var(--icon-announcements);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=about] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=info] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=instruction] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=about] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=info] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=instruction] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=инфо] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=инструкция] .iconContainer-1BBaeJ   {
 	--icon: var(--icon-info);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=faq] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=help] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=question] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=faq] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=help] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=question] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=помощь] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=вопросы] .iconContainer-1BBaeJ {
 	--icon: var(--icon-help);
 	background-color: var(--icon-color)
 }
@@ -7526,11 +7526,11 @@ html:not(.app-focused) .sidebarRegionScroller-3MXcoP {
 	--icon: var(--icon-api);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=support] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=support] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=поддержка] .iconContainer-1BBaeJ {
 	--icon: var(--icon-support);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=background] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=gallery] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=image] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=pic] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=picture] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=screenshot] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=wallpaper] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=background] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=gallery] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=image] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=pic] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=picture] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=screenshot] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=wallpaper] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=обои] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=скриншоты] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=галлерея] .iconContainer-1BBaeJ {
 	--icon: var(--icon-image);
 	background-color: var(--icon-color)
 }
@@ -7550,11 +7550,11 @@ html:not(.app-focused) .sidebarRegionScroller-3MXcoP {
 	--icon: var(--icon-plugin);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=code] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=codi] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=css] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=script] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=code] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=codi] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=css] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=script] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=кодинг] .iconContainer-1BBaeJ  {
 	background-color: var(--icon-color);
 	--icon: var(--icon-code)
 }
-.container-3w7J-x a[aria-label*=animal] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=pets] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=animal] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=pets] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=питомцы] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=животные] .iconContainer-1BBaeJ {
 	--icon: var(--icon-pets);
 	background-color: var(--icon-color)
 }
@@ -7566,27 +7566,27 @@ html:not(.app-focused) .sidebarRegionScroller-3MXcoP {
 	background-color: var(--icon-color);
 	--icon: var(--icon-edit)
 }
-.container-3w7J-x a[aria-label*=donator] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=sponsor] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=star] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=supporter] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=donator] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=sponsor] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=star] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=supporter] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=донатер] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=спонсор] .iconContainer-1BBaeJ {
 	background-color: var(--icon-color);
 	--icon: var(--icon-stars)
 }
-.container-3w7J-x a[aria-label*=helper] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=helpful] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=helper] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=helpful] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=хелпер] .iconContainer-1BBaeJ {
 	background-color: var(--icon-color);
 	--icon: var(--icon-heart)
 }
-.container-3w7J-x a[aria-label*=mod] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=moderator] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=staff] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=mod] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=moderator] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=staff] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=модератор] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=стафф] .iconContainer-1BBaeJ {
 	background-color: var(--icon-color);
 	--icon: var(--icon-mod)
 }
-.container-3w7J-x a[aria-label*=brain] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=developer] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=brain] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=developer] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=разработчик] .iconContainer-1BBaeJ {
 	background-color: var(--icon-color);
 	--icon: var(--icon-dev)
 }
-.container-3w7J-x a[aria-label*=market] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=shop] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=store] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=market] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=shop] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=store] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=магазин] .iconContainer-1BBaeJ {
 	background-color: var(--icon-color);
 	--icon: var(--icon-store)
 }
-.container-3w7J-x a[aria-label*=spoiler] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=warning] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=spoiler] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=warning] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=внимание] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=спойлер] .iconContainer-1BBaeJ {
 	background-color: var(--icon-color);
 	--icon: var(--icon-problem)
 }
@@ -7598,7 +7598,7 @@ html:not(.app-focused) .sidebarRegionScroller-3MXcoP {
 	background-color: var(--icon-color);
 	--icon: var(--icon-architecture)
 }
-.container-3w7J-x a[aria-label*=library] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=log] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=web] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=library] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=log] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=web] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=логи] .iconContainer-1BBaeJ {
 	background-color: var(--icon-color);
 	--icon: var(--icon-list2)
 }
@@ -7726,7 +7726,7 @@ html:not(.app-focused) .sidebarRegionScroller-3MXcoP {
 	--icon: var(--icon-forge);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=bug] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=bug] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=баг] .iconContainer-1BBaeJ {
 	--icon: var(--icon-bug);
 	background-color: var(--icon-color)
 }
@@ -7742,7 +7742,7 @@ html:not(.app-focused) .sidebarRegionScroller-3MXcoP {
 	--icon: var(--icon-feed);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=feedback] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=feedback] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=отзыв] .iconContainer-1BBaeJ {
 	--icon: var(--icon-feedback);
 	background-color: var(--icon-color)
 }
@@ -7758,11 +7758,11 @@ html:not(.app-focused) .sidebarRegionScroller-3MXcoP {
 	--icon: var(--icon-particle);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=clip] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=replay] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=video] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=clip] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=replay] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=video] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=видео] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=клип] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=реплей] .iconContainer-1BBaeJ {
 	--icon: var(--icon-video);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=film] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=movie] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=theater] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=film] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=movie] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=theater] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=фильм] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=кино] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=театр] .iconContainer-1BBaeJ {
 	--icon: var(--icon-movie);
 	background-color: var(--icon-color)
 }
@@ -7770,19 +7770,19 @@ html:not(.app-focused) .sidebarRegionScroller-3MXcoP {
 	--icon: var(--icon-quote);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=photo] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=photography] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=photo] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=photography] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=фото] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=фотография] .iconContainer-1BBaeJ {
 	--icon: var(--icon-photo);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=donations] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=donations] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=донаты] .iconContainer-1BBaeJ {
 	--icon: var(--icon-donations);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=broadcast] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=livestream] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=stream] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=broadcast] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=livestream] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=stream] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=стрим] .iconContainer-1BBaeJ {
 	--icon: var(--icon-livestream);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=guest] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=role] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=user] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=guest] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=role] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=user] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=гость] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=участник] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=роль] .iconContainer-1BBaeJ {
 	--icon: var(--icon-guest);
 	background-color: var(--icon-color)
 }
@@ -7794,7 +7794,7 @@ html:not(.app-focused) .sidebarRegionScroller-3MXcoP {
 	--icon: var(--icon-rules);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=link] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=link] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=ссылка] .iconContainer-1BBaeJ {
 	--icon: var(--icon-link);
 	background-color: var(--icon-color)
 }
@@ -7802,47 +7802,47 @@ html:not(.app-focused) .sidebarRegionScroller-3MXcoP {
 	--icon: var(--icon-loop);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=vinyl] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=vinyl] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=винил] .iconContainer-1BBaeJ {
 	--icon: var(--icon-disc);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=computer] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=pc] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=computer] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=pc] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=пк] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=компьютер] .iconContainer-1BBaeJ {
 	--icon: var(--icon-computer);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=microsoft] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=windows] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=microsoft] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=windows] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=майкрософт] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=виндовс] .iconContainer-1BBaeJ {
 	--icon: var(--icon-windows);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=optimiz] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=politic] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=poll] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=vote] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=voting] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=optimiz] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=politic] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=poll] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=vote] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=voting] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=голосование] .iconContainer-1BBaeJ {
 	--icon: var(--icon-poll);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=deal] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=trade] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=trading] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=deal] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=trade] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=trading] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=трейд] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=обмен] .iconContainer-1BBaeJ {
 	--icon: var(--icon-deal);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=copyright] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=ip-rights] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=ip_rights] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=copyright] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=ip-rights] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=ip_rights] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=копирайт] .iconContainer-1BBaeJ {
 	--icon: var(--icon-copyright);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=discords] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=server] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=discords] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=server] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=сервер] .iconContainer-1BBaeJ {
 	--icon: var(--icon-server);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=emoji] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=emote] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=meme] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=shit-posting] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=shitposting] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=emoji] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=emote] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=meme] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=shit-posting] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=shitposting] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=эмодзи] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=шитпостинг] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=мемы] .iconContainer-1BBaeJ {
 	--icon: var(--icon-meme);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=search] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=search] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=поиск] .iconContainer-1BBaeJ {
 	--icon: var(--icon-search);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=coof] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=corona] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=covid] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=gorona] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=coof] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=corona] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=covid] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=gorona] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=ковид] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=коронавирус] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=корона] .iconContainer-1BBaeJ {
 	--icon: var(--icon-covid19);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=twitch] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=twitch] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=твич] .iconContainer-1BBaeJ {
 	--icon: var(--icon-twitch);
 	background-color: var(--icon-color)
 }
@@ -7850,27 +7850,27 @@ html:not(.app-focused) .sidebarRegionScroller-3MXcoP {
 	--icon: var(--icon-random);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=bot] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=bot] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=бот] .iconContainer-1BBaeJ {
 	background-color: var(--icon-color);
 	--icon: var(--icon-bot)
 }
-.container-3w7J-x a[aria-label*=media] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=media] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=медиа] .iconContainer-1BBaeJ {
 	background-color: var(--icon-color);
 	--icon: var(--icon-media)
 }
-.container-3w7J-x a[aria-label*=idea] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=suggestion] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=idea] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=suggestion] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=предложения] .iconContainer-1BBaeJ {
 	--icon: var(--icon-idea);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=chat] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=discussion] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=general] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=message] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=off-topic] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=offtopic] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=chat] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=discussion] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=general] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=message] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=off-topic] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=offtopic] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=чат] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=общение] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=офф-топ] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=оффтоп] .iconContainer-1BBaeJ {
 	--icon: var(--icon-discussion);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=gun-] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=guns] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=pistol] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=weapon] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=gun-] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=guns] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=pistol] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=weapon] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=оружие] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=пистолет] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=оружия] .iconContainer-1BBaeJ {
 	--icon: var(--icon-weapon);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=military] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=military] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=военный] .iconContainer-1BBaeJ {
 	--icon: var(--icon-military);
 	background-color: var(--icon-color)
 }
@@ -7882,15 +7882,15 @@ html:not(.app-focused) .sidebarRegionScroller-3MXcoP {
 	--icon: var(--icon-fire);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=admin] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=admin] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=админ] .iconContainer-1BBaeJ {
 	--icon: var(--icon-admin);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=setting] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=setting] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=настройка] .iconContainer-1BBaeJ {
 	--icon: var(--icon-settings);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=news] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=news] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=новости] .iconContainer-1BBaeJ {
 	--icon: var(--icon-news);
 	background-color: var(--icon-color)
 }
@@ -7898,15 +7898,15 @@ html:not(.app-focused) .sidebarRegionScroller-3MXcoP {
 	--icon: var(--icon-translate);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=lobby] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=lounge] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=lobby] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=lounge] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=лобби] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=гостинная] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=гостевая] .iconContainer-1BBaeJ {
 	--icon: var(--icon-lounge);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label^=vip] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label^=vip] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=вип] .iconContainer-1BBaeJ {
 	--icon: var(--icon-vip);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=friends] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label^=co-op] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=friends] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label^=co-op] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=друзья] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=кооп] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=кооператив] .iconContainer-1BBaeJ {
 	--icon: var(--icon-friends);
 	background-color: var(--icon-color)
 }
@@ -7918,7 +7918,7 @@ html:not(.app-focused) .sidebarRegionScroller-3MXcoP {
 	--icon: var(--icon-book);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=app] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=app] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=приложение] .iconContainer-1BBaeJ {
 	--icon: var(--icon-app);
 	background-color: var(--icon-color)
 }
@@ -7926,31 +7926,31 @@ html:not(.app-focused) .sidebarRegionScroller-3MXcoP {
 	--icon: var(--icon-school);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=gif] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=gif] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=гиф] .iconContainer-1BBaeJ {
 	--icon: var(--icon-gif);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=gift] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=giveaway] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=gift] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=giveaway] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=розыгрыш] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=розыгрыши] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=подарок] .iconContainer-1BBaeJ {
 	--icon: var(--icon-gift);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=science] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=science] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=наука] .iconContainer-1BBaeJ {
 	--icon: var(--icon-science);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=drama] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=theater] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=drama] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=theater] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=драмма] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=театр] .iconContainer-1BBaeJ {
 	--icon: var(--icon-theater);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=flag] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=goal] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=report] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=flag] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=goal] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=report] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=репорт] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=жалоба] .iconContainer-1BBaeJ {
 	--icon: var(--icon-flag);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=hobbies] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=hobby] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=interest] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=hobbies] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=hobby] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=interest] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=хобби] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=интересы] .iconContainer-1BBaeJ {
 	--icon: var(--icon-hobby);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=piano] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=piano] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=пианино] .iconContainer-1BBaeJ {
 	--icon: var(--icon-piano);
 	background-color: var(--icon-color)
 }
@@ -7958,7 +7958,7 @@ html:not(.app-focused) .sidebarRegionScroller-3MXcoP {
 	--icon: var(--icon-apple);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=calendar] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=event] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=calendar] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=event] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=календарь] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=ивент] .iconContainer-1BBaeJ {
 	--icon: var(--icon-event);
 	background-color: var(--icon-color)
 }
@@ -7966,7 +7966,7 @@ html:not(.app-focused) .sidebarRegionScroller-3MXcoP {
 	--icon: var(--icon-material);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=google] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=google] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=гугл] .iconContainer-1BBaeJ {
 	--icon: var(--icon-google);
 	background-color: var(--icon-color)
 }
@@ -7974,7 +7974,7 @@ html:not(.app-focused) .sidebarRegionScroller-3MXcoP {
 	--icon: var(--icon-road-sign);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=document] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=sheet] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=document] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=sheet] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=документ] .iconContainer-1BBaeJ {
 	--icon: var(--icon-document);
 	background-color: var(--icon-color)
 }
@@ -7986,7 +7986,7 @@ html:not(.app-focused) .sidebarRegionScroller-3MXcoP {
 	--icon: var(--icon-castle);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=karaoke] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=karaoke] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=караоке] .iconContainer-1BBaeJ {
 	--icon: var(--icon-microphone2);
 	background-color: var(--icon-color)
 }
@@ -7994,7 +7994,7 @@ html:not(.app-focused) .sidebarRegionScroller-3MXcoP {
 	--icon: var(--icon-pin);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=dj] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=jukebox] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=music-bot] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=music] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=radio] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=tunes] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=dj] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=jukebox] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=music-bot] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=music] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=radio] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=tunes] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=радио] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=музыка] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=музыкальный-бот] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=музыкальный] .iconContainer-1BBaeJ {
 	--icon: var(--icon-music);
 	background-color: var(--icon-color)
 }
@@ -8002,11 +8002,11 @@ html:not(.app-focused) .sidebarRegionScroller-3MXcoP {
 	--icon: unset;
 	background-color: rgba(0, 0, 0, 0)
 }
-.container-3w7J-x a[aria-label*=adobe] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=adobe] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=адоб] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=адобе] .iconContainer-1BBaeJ {
 	--icon: var(--icon-adobe);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=blender] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=blender] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=блендер] .iconContainer-1BBaeJ {
 	--icon: var(--icon-blender);
 	background-color: var(--icon-color)
 }
@@ -8014,7 +8014,7 @@ html:not(.app-focused) .sidebarRegionScroller-3MXcoP {
 	--icon: var(--icon-maya);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label^=unity] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label^=unity] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=юнити] .iconContainer-1BBaeJ {
 	--icon: var(--icon-unity);
 	background-color: var(--icon-color)
 }
@@ -8028,67 +8028,67 @@ html:not(.app-focused) .sidebarRegionScroller-3MXcoP {
 	--mask-size: 80%;
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=wip] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=wip] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=концепт] .iconContainer-1BBaeJ {
 	--icon: var(--icon-wip);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=facebook] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=facebook] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=фейсбук] .iconContainer-1BBaeJ {
 	--icon: var(--icon-facebook);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=xbox] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=xbox] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=иксбокс] .iconContainer-1BBaeJ {
 	--icon: var(--icon-xbox);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=tweet] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=twitter] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=tweet] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=twitter] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=твиттер] .iconContainer-1BBaeJ {
 	--icon: var(--icon-twitter);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=tiktok] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=tiktok] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=тикток] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=тик-ток] .iconContainer-1BBaeJ {
 	--icon: var(--icon-tiktok);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=paypal] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=paypal] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=пейпал] .iconContainer-1BBaeJ {
 	--icon: var(--icon-paypal);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=snapchat] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=snapchat] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=снапчат] .iconContainer-1BBaeJ {
 	--icon: var(--icon-snapchat);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=reddit] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=reddit] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=реддит] .iconContainer-1BBaeJ {
 	--icon: var(--icon-reddit);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=discord] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=discord] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=дискорд] .iconContainer-1BBaeJ {
 	--icon: var(--icon-discord);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=booster] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=discord-nitro] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=nitro-booster] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=nitro] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=booster] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=discord-nitro] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=nitro-booster] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=nitro] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=Бустер] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=нитро] .iconContainer-1BBaeJ {
 	--icon: var(--icon-discord-nitro);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=whatsapp] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=whatsapp] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=ватсап] .iconContainer-1BBaeJ {
 	--icon: var(--icon-whatsapp);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=imgur] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=imgur] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=имгур] .iconContainer-1BBaeJ {
 	--icon: var(--icon-imgur);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=patreon] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=patreon] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=патреон] .iconContainer-1BBaeJ {
 	--icon: var(--icon-patreon);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=youtube] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=youtube] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=ютуб] .iconContainer-1BBaeJ {
 	--icon: var(--icon-youtube);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=instagram] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=instagram] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=инстаграмм] .iconContainer-1BBaeJ {
 	--icon: var(--icon-instagram);
 	background-color: var(--icon-color)
 }
-.container-3w7J-x a[aria-label*=onlyfans] .iconContainer-1BBaeJ {
+.container-3w7J-x a[aria-label*=onlyfans] .iconContainer-1BBaeJ, .container-3w7J-x a[aria-label*=онлифанс] .iconContainer-1BBaeJ {
 	--icon: var(--icon-onlyfans);
 	background-color: var(--icon-color)
 }
